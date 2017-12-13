@@ -15,10 +15,8 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 
 public class ScrollingActivity extends AppCompatActivity {
 
-    ImageView imageView;
-    ImageView imageView9;
-    ImageView imageView10;
-    ImageView imageView11;
+    ImageView imageView, imageView9,imageView10,imageView11;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,7 +30,6 @@ public class ScrollingActivity extends AppCompatActivity {
         imageView9 = findViewById(R.id.imageView9);
         imageView10 = findViewById(R.id.imageView10);
         imageView11 = findViewById(R.id.imageView11);
-
 
         round_images();
 
