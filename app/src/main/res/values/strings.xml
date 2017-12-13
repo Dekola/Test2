@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="large_text">    </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="training">Training Experience</string>
+    <string name="training_text">Jackson is a lovely and honest trainer. If away from home too easy to loose. After the training or pay more attention</string>
+
+    <string name="category">Training Categories</string>
+    <string name="category_1">CYCLING</string>
+    <string name="category_2">BADMINTON</string>
+    <string name="category_3">RACING</string>
+    <string name="category_4">CRICKET</string>
+    <string name="category_5">GYM</string>
+    <string name="category_6">FOOTBALL</string>
+
+    <string name="offer">What do I offer</string>
+    <string name="offer_text">Jackson is a lovely and honest trainer. If away from home too easy to loose. After the training or pay more attention</string>
+
+
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="location">Location</string>
+    <string name="nationality">Nationality</string>
+    <string name="fb_page">FB Page</string>
+    <string name="Web">Web</string>
+
+    <string name="comment">Comments</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="title_activity_scrolling2">ScrollingActivity2</string>
+
+</resources>
