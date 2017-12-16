@@ -29,4 +29,20 @@
     <string name="add_comment">Add Comment</string>
     <string name="title_activity_scrolling2">ScrollingActivity2</string>
 
+    <string-array name="comment_name">
+        <item>Gabriela Becker</item>
+        <item>James Richardson</item>
+        <item>Steve Patrick</item>
+    </string-array>
+
+    <string-array name="comment_message">
+        <item>Jackson is a lovely and honest trainer. If away from home too easy to loose. After the training or pay more attention</item>
+        <item>Awesome!!! Really Nice</item>
+        <item>Good Training</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/profile</item>
+    </array>
+
 </resources>
