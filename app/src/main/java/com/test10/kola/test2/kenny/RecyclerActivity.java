@@ -6,6 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import com.test10.kola.test2.R;
+import com.test10.kola.test2.kenny.adapter.KennyAdapter;
 
 public class RecyclerActivity extends AppCompatActivity {
 
@@ -14,7 +15,7 @@ public class RecyclerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recycler);
 
-        initViews()
+        initViews();
     }
 
     private void initViews(){

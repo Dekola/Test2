@@ -18,7 +18,7 @@ import java.util.List;
  * Created by Akano on 12/15/2017.
  */
 
-class Card0_View_Adapter extends RecyclerView.Adapter<Card0_View_Adapter.ViewHolder> {
+public class Card0_View_Adapter extends RecyclerView.Adapter<Card0_View_Adapter.ViewHolder> {
 
     Context context;
     private List<Integer> icon;

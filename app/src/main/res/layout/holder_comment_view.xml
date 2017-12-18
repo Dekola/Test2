@@ -5,6 +5,7 @@
     android:layout_alignParentStart="true"
     app:cardCornerRadius="10dp"
     app:cardElevation="50dp"
+    android:layout_marginTop="10dp"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
@@ -26,11 +27,11 @@
             android:text="@string/comment" />
 
         <android.support.v7.widget.RecyclerView
-            android:id="@+id/recycler5"
             android:layout_below="@+id/textView21"
             android:layout_marginTop="25dp"
+            android:id="@+id/holder_comment_recycler_view"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:layout_height="wrap_content"></android.support.v7.widget.RecyclerView>
 
     </RelativeLayout>
 
